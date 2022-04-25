@@ -1,0 +1,9 @@
+{
+    "development":{
+        "username":"mongodb",
+        "password":"mongodb",
+        "clusterendpoint":"cluster0.zog6m.mongodb.net",
+        "database":"EmailGuesser",
+        "frontend_BaseURL":"http://localhost:3000"
+    }
+}
